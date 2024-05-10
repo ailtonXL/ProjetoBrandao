@@ -1,0 +1,35 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="css/css.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loja do P1</title>
+    <link rel="icon" href="C:\Users\ailto\teste\faculdade\projetobrandão\LP1.png">
+    <link rel="stylesheet" href="javascript/javascript.js">
+</head>
+
+<body>
+    <div>
+        <center><a href="C:/Users/ailto/teste/faculdade/projeto"><img src="C:\Users\ailto\teste\faculdade\projetobrandão\LP1.png" width="50px"></a></center>
+        <hr color="black">
+        <ul>
+            <li>
+                <img src="https://www.sospedro.com.br/wp-content/uploads/2021/02/Moda-masculina-para-2020_-10-tendencias-para-este-ano-1-768x958.jpg"
+                    width="250px">
+                    <span><strong>Conjunto de Sport Fino</strong></span>
+                    <span><strong><u>R$499,90</u></strong></span>
+            </li>
+            <li>
+                <img src="https://www.sospedro.com.br/wp-content/uploads/2021/02/Moda-masculina-para-2020_-10-tendencias-para-este-ano-1-768x958.jpg"
+                    width="250px">
+            </li>
+            <li>
+                <img src="https://www.sospedro.com.br/wp-content/uploads/2021/02/Moda-masculina-para-2020_-10-tendencias-para-este-ano-1-768x958.jpg"
+                    width="250px">
+            </li>
+        </ul>
+    </div>
+</body>
+
+</html>
