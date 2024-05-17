@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <body>
+        <center><a href="projeto.html"><img src="https://th.bing.com/th/id/OIP.ivCO3zXXo-b-QFpPzofDqwAAAA?rs=1&pid=ImgDetMain" width="50px"></a></center>
+        <hr color="black">
+        <img src="https://hering.vtexassets.com/arquivos/ids/314104-800-auto/0111-MD307S-C1.jpg?v=638495474938370000"
+        width="500px"
+        align="left">
+        <br>
+        <h1>Regata bÃ¡sica masculina - cinza</h1>
+        <h2><u>R$74,99</u></h2>
+        <button>P</button>
+        <button>M</button>
+        <button>G</button>
+        <button>GG</button>
+    </body>
+</head>
