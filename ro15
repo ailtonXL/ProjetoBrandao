@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <body>
+        <center><a href="projeto.html"><img src="https://th.bing.com/th/id/OIP.ivCO3zXXo-b-QFpPzofDqwAAAA?rs=1&pid=ImgDetMain" width="50px"></a></center>
+        <hr color="black">
+        <img src="https://hering.vtexassets.com/arquivos/ids/863371-800-auto/KFRB-1BSN-C1.jpg?v=638495493270100000"
+        width="500px"
+        align="left">
+        <br>
+        <h1>Kit meias unissex cano longo - preto</h1>
+        <h2><u>R$39,99</u></h2>
+        <button>35 a 40</button>
+        <button>40 a 45</button>
+    </body>
+</head>
