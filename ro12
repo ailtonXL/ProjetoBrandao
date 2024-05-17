@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <body>
+        <center><a href="projeto.html"><img src="https://th.bing.com/th/id/OIP.ivCO3zXXo-b-QFpPzofDqwAAAA?rs=1&pid=ImgDetMain" width="50px"></a></center>
+        <hr color="black">
+        <img src="https://hering.vtexassets.com/arquivos/ids/319425-800-auto/05M3-M2H07S-C2.jpg?v=638495267727800000"
+        width="500px"
+        align="left">
+        <br>
+        <h1>Calça Básica Masculina Jogger Em Moletom - Cinza</h1>
+        <h2><u>R$159,99</u></h2>
+        <button>P</button>
+        <button>M</button>
+        <button>G</button>
+        <button>GG</button>
+    </body>
+</head>
