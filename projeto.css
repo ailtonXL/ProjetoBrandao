@@ -1,0 +1,92 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+center {
+  margin-bottom: 20px;
+}
+
+img[width="50px"] {
+  border-radius: 50%;
+  margin: 10px;
+}
+
+hr {
+  border: 1px solid black;
+  margin: 20px 0;
+}
+
+img[width="500px"] {
+  margin: 20px;
+  border: 1px solid #ddd;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 18px;
+  color: #00698f;
+  margin-bottom: 20px;
+}
+
+.btn-tamanho {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-tamanho:hover {
+  background-color: #3e8e41;
+}
+
+#carrinho {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border: 1px solid #ddd;
+  margin-top: 20px;
+}
+
+#carrinho h2 {
+  margin-top: 0;
+}
+
+#itens-carrinho {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#itens-carrinho li {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+#itens-carrinho li:last-child {
+  border-bottom: none;
+}
+
+#total-carrinho {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+#carrinho button {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#carrinho button:hover {
+  background-color: #3e8e41;
+}
